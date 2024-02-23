@@ -1,7 +1,7 @@
 ## Langka menjalankan
 1. clone project
    ```
-   
+   git clone git@github.com:herman-xphp/Test_Herman.git
    ```
 2. jalankan printa key:generate
    ```
